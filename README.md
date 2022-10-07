@@ -7,7 +7,7 @@ A simple solution to change between PHP versions without getting a headache!
 You just need to run the following version to download or update to the latest version:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/kaiopiola/php-switcher/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/kaiopiola/php-switcher/main/install.sh | sh
 ```
 ## How to use
 
